@@ -1,3 +1,16 @@
 .favicon {
     width: 30px;
 }
+.footer-favicon {
+    width: 80px;
+}
+
+main {
+    background-image: url("../images/background.webp");
+    color: aliceblue;
+    height: 94vh;
+    font-family: 'Monaco';
+}
+footer {
+    color: aliceblue;
+}
