@@ -4,6 +4,9 @@
 .footer-favicon {
     width: 80px;
 }
+.contact-favicon {
+    width: 200px;
+}
 
 .homepage {
     background-image: url("../images/background.webp");
