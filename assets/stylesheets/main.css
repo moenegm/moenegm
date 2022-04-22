@@ -5,7 +5,7 @@
     width: 80px;
 }
 
-main {
+.homepage {
     background-image: url("../images/background.webp");
     color: aliceblue;
     height: 94vh;
