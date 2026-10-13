@@ -1,0 +1,26 @@
+.favicon {
+    width: 30px;
+}
+.footer-favicon {
+    width: 80px;
+}
+.contact-favicon {
+    width: 200px;
+}
+
+.homepage {
+    background-image: url("../images/background.webp");
+    color: aliceblue;
+    height: 94vh;
+    font-family: 'Monaco';
+}
+.resume {
+    font-family: 'Monaco';
+    font-size: 2vmin;
+}
+.resume-special-text{
+    color: aliceblue;
+}
+footer {
+    color: aliceblue;
+}
