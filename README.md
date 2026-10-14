@@ -4,6 +4,14 @@ Founder and owner of **Nujoom Digital LLC**, a full stack software engineer. I b
 
 Before software, I spent 10 years teaching math, science and technology in NYC and WA public schools, and I hold an MA in STEM Education.
 
+<p align="center">
+  <a href="https://github.com/moenegm/moenegm/blob/main/assets/images/mohamed-negm-illustrated.png">
+    <img src="assets/images/mohamed-negm-illustrated.png" alt="Illustrated portrait of Mohamed Negm" width="220">
+  </a>
+</p>
+
+[View the portrait file on GitHub](https://github.com/moenegm/moenegm/blob/main/assets/images/mohamed-negm-illustrated.png)
+
 ## What I'm working on
 
 | Project | What it is | Built with |
