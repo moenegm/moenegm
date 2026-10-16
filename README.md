@@ -16,6 +16,7 @@ Before software, I spent 10 years teaching math, science and technology in NYC a
 |---|---|---|
 | [Nujoom Digital](https://github.com/moenegm/nujoom_digital) | Company website with online booking, contact and a private client intake flow | Ruby on Rails, Kamal |
 | [Kalimati](https://github.com/moenegm/Kalimati) | iOS app that helps kids learn Arabic | Swift, Xcode |
+| [Sophia-AAC](https://github.com/moenegm/Sophia-AAC) | iPad picture communication app for autistic children, with tap-to-speak cards, personal boards and private iCloud sync; in development | SwiftUI, SwiftData, CloudKit |
 | [Tasbih Studio](https://github.com/moenegm/TasbihCounter) | iOS tasbih (dhikr) counter | Swift, Xcode |
 | [Backup Drive Organizer Pro](https://github.com/moenegm/backup-drive-organizer-pro) | Mac app that turns a messy backup drive into a clean, organized copy by place and date, with duplicate cleanup | Python, PyQt6 |
 
